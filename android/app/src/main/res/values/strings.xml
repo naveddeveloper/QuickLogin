@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">quicklogin</string>
+    <string name="fb_login_protocol_scheme">fb587591957638239</string>
+    <string name="facebook_app_id">587591957638239</string>
+    <string name="facebook_client_token">134a6ad5c3e8b6f8196646710ae11ec0</string>
+</resources>
