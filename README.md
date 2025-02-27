@@ -7,7 +7,7 @@ A **modern authentication app** built with **Flutter & Firebase**, featuring **E
 ---
 
 ## **📌 Screenshots**
-| Login Screen | Register Screen | Home Screen |
+| Login Screen | Onboarding Screen | Home Screen |
 |-------------|----------------|-------------|
 | ![Login](assets/screenshots/loginscreen.png) | ![Home](assets/screenshots/welcomescreen.png) | ![Register](assets/screenshots/signupscreen.png)  |
 
@@ -43,6 +43,12 @@ This app is built using the following Flutter dependencies:
 
 ---
 
+## 🎨 Design 
+
+- **Figma Design**: [View Design](https://www.figma.com/design/epOL5k0WgO77Nc3OeRJtco/QuickLogin?node-id=0-1&t=ax5hY1gO3dmvI6XU-1)
+
+---
+
 ## **📂 Project Structure**
 ```
 📦 authentication_app/
@@ -72,7 +78,7 @@ This app is built using the following Flutter dependencies:
 ## **🚀 Getting Started**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/naveddveloper/quicklogin.git
+git clone https://github.com/naveddeveloper/quicklogin
 cd quicklogin
 ```
 
@@ -110,6 +116,11 @@ Go to **Firebase Console → Authentication → Sign-in Method** and enable:
 
 ---
 
-## **💬 Support**
-For issues or suggestions, feel free to open an **[issue](https://github.com/yourusername/authentication_app/issues)** on GitHub.  
+## Feedback 💬
+
+If you have any suggestions, feel free to open an issue or contact me on [Instagram](https://www.instagram.com/naveddeveloper).
+
+## Download the APK
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://drive.google.com/uc?id=1X7BdpNzp21c3VH1XsItvIIGA3Zx49eTJ&export=download)
+
 
