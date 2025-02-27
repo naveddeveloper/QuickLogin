@@ -6,6 +6,13 @@ A **modern authentication app** built with **Flutter & Firebase**, featuring **E
 
 ---
 
+## **📌 Screenshots**
+| Login Screen | Register Screen | Home Screen |
+|-------------|----------------|-------------|
+| ![Login](assets/screenshots/loginscreen.png) | ![Home](assets/screenshots/welcomescreen.png) | ![Register](assets/screenshots/signupscreen.png)  |
+
+---
+
 ## **🚀 Features**
 ✅ **Sign Up & Sign In** with **Email & Password**  
 ✅ **Google, Facebook, Twitter OAuth Login**  
@@ -100,13 +107,6 @@ Go to **Firebase Console → Authentication → Sign-in Method** and enable:
 ✅ Google  
 ✅ Facebook (Add App ID & Secret)  
 ✅ Twitter (Add API Key & Secret)
-
----
-
-## **📌 Screenshots**
-| Login Screen | Register Screen | Home Screen |
-|-------------|----------------|-------------|
-| ![Login](assets/screenshots/loginscreen.png) | ![Home](assets/screenshots/welcomescreen.png) | ![Register](assets/screenshots/signupscreen.png)  |
 
 ---
 
